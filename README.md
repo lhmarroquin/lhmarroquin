@@ -2,6 +2,11 @@
 
 <p>Bienvenido a mi página! </br> Soy Ludbyn, Senior Fullstack Developer vivo en <img src="https://cdn-icons-png.flaticon.com/512/630/630607.png" width="13"/> <b>Ciudad de Guatemala, Guatemala</b></b>. </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/lhmarroquin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-lhmarroquin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mail:lhmarroquin@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-lhmarroquin@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1610063807/11982/matrix.gif?1610063807" width="30"/> Skills</h1>
 
 <p>
